@@ -9,6 +9,9 @@ EC-CUBEの開発者である[@chihiro-adachi](https://qiita.com/chihiro-adachi)�
 - symfony new --full --version=4.4.* sample
 - 
 
+## コマンド
+symfony server:start
+
 ## EC-CUBE研修資料(Symfony入門ハンズオン)との違い
 - apple siliconなので公式の方法ではSymfony入門ハンズオンが入れられない。[こちら](https://github.com/symfony/cli/issues/384)のissuesが参考になった。
 - 先にGitHubでリポジトリを作ってcloneしていたので、sampleの中身の.gitフォルダを抜いて親ディレクトリ(Symfony)にコピペ。sampleディレクトリを削除。
